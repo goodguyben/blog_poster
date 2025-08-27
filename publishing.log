@@ -1,0 +1,1400 @@
+2025-08-26 13:58:52,251 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 13:58:52,251 - INFO - Parsed Markdown successfully.
+2025-08-26 13:58:52,251 - INFO - Title: My First Automated Post
+2025-08-26 13:58:52,251 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 13:58:52,251 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 13:58:52,251 - INFO - Attempting to publish to Dev.to...
+2025-08-26 13:58:52,750 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-ek1
+2025-08-26 13:58:52,752 - INFO - Successfully published to dev_to
+2025-08-26 13:58:52,752 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 13:58:52,752 - INFO - Attempting to publish to Hashnode...
+2025-08-26 13:58:53,219 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1
+2025-08-26 13:58:53,221 - INFO - Successfully published to hashnode
+2025-08-26 13:58:53,222 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 13:58:53,222 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 13:58:59,901 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-2/
+2025-08-26 13:58:59,902 - INFO - Successfully published to wordpress
+2025-08-26 13:58:59,902 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:41:59,971 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:41:59,972 - INFO - Parsed Markdown successfully.
+2025-08-26 14:41:59,972 - INFO - Title: My First Automated Post
+2025-08-26 14:41:59,972 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:41:59,972 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:41:59,972 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:42:00,423 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-k21
+2025-08-26 14:42:00,425 - INFO - Successfully published to dev_to
+2025-08-26 14:42:00,425 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:42:00,426 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:42:01,170 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1
+2025-08-26 14:42:01,172 - INFO - Successfully published to hashnode
+2025-08-26 14:42:01,172 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:42:01,172 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:42:07,936 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-3/
+2025-08-26 14:42:07,938 - INFO - Successfully published to wordpress
+2025-08-26 14:42:07,938 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:42:07,938 - WARNING - No configuration found for write_as. Skipping.
+2025-08-26 14:42:07,938 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:42:21,167 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:42:21,168 - INFO - Parsed Markdown successfully.
+2025-08-26 14:42:21,168 - INFO - Title: My First Automated Post
+2025-08-26 14:42:21,168 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:42:21,168 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:42:21,168 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:42:21,402 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:42:21,403 - WARNING - Failed to publish to dev_to
+2025-08-26 14:42:21,403 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:42:21,403 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:42:21,870 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1
+2025-08-26 14:42:21,872 - INFO - Successfully published to hashnode
+2025-08-26 14:42:21,872 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:42:21,872 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:42:28,425 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-4/
+2025-08-26 14:42:28,441 - INFO - Successfully published to wordpress
+2025-08-26 14:42:28,442 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:42:28,442 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:42:28,713 - ERROR - Failed to publish to Write.as. No URL in response: {'code': 201, 'data': {'id': 'ftkvqko183j1x', 'slug': None, 'token': 'mHc9ZTitFJOltX7u8CmI5SzDCUXjT1hk', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:42:28Z', 'updated': '2025-08-26T20:42:28Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/ftkvqko183j1x.md'}}
+2025-08-26 14:42:28,714 - WARNING - Failed to publish to write_as
+2025-08-26 14:42:28,714 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:42:50,735 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:42:50,736 - INFO - Parsed Markdown successfully.
+2025-08-26 14:42:50,736 - INFO - Title: My First Automated Post
+2025-08-26 14:42:50,736 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:42:50,736 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:42:50,736 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:42:50,977 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:42:50,978 - WARNING - Failed to publish to dev_to
+2025-08-26 14:42:50,978 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:42:50,978 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:42:51,469 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1
+2025-08-26 14:42:51,474 - INFO - Successfully published to hashnode
+2025-08-26 14:42:51,474 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:42:51,475 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:42:58,024 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-5/
+2025-08-26 14:42:58,025 - INFO - Successfully published to wordpress
+2025-08-26 14:42:58,025 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:42:58,025 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:42:58,280 - ERROR - Failed to publish to Write.as. No URL in response: {'code': 201, 'data': {'id': '1xbzx0hfocyzi', 'slug': None, 'token': 'vL5u6Njr0DwBgI0wtw1m4jNdWmGxvRDO', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:42:58Z', 'updated': '2025-08-26T20:42:58Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/1xbzx0hfocyzi.md'}}
+2025-08-26 14:42:58,280 - WARNING - Failed to publish to write_as
+2025-08-26 14:42:58,280 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:43:23,403 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:43:23,404 - INFO - Parsed Markdown successfully.
+2025-08-26 14:43:23,404 - INFO - Title: My First Automated Post
+2025-08-26 14:43:23,404 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:43:23,404 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:43:23,404 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:43:23,829 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:43:23,831 - WARNING - Failed to publish to dev_to
+2025-08-26 14:43:23,831 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:43:23,832 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:43:24,318 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1
+2025-08-26 14:43:24,319 - INFO - Successfully published to hashnode
+2025-08-26 14:43:24,319 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:43:24,320 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:43:30,791 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-6/
+2025-08-26 14:43:30,793 - INFO - Successfully published to wordpress
+2025-08-26 14:43:30,793 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:43:30,793 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:43:31,073 - ERROR - Failed to publish to Write.as. No URL in response: {'code': 201, 'data': {'id': 'qev5lh54k3i66', 'slug': None, 'token': 'RqUkVfwtZLQYAgpv1gO3O2dpwsiC0hmR', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:43:31Z', 'updated': '2025-08-26T20:43:31Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/qev5lh54k3i66.md'}}
+2025-08-26 14:43:31,073 - WARNING - Failed to publish to write_as
+2025-08-26 14:43:31,074 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:43:49,215 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:43:49,216 - INFO - Parsed Markdown successfully.
+2025-08-26 14:43:49,216 - INFO - Title: My First Automated Post
+2025-08-26 14:43:49,216 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:43:49,216 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:43:49,216 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:43:49,471 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:43:49,473 - WARNING - Failed to publish to dev_to
+2025-08-26 14:43:49,474 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:43:49,474 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:43:49,941 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1
+2025-08-26 14:43:49,942 - INFO - Successfully published to hashnode
+2025-08-26 14:43:49,942 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:43:49,942 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:43:56,501 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-7/
+2025-08-26 14:43:56,505 - INFO - Successfully published to wordpress
+2025-08-26 14:43:56,505 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:43:56,505 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:43:56,784 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'c6c1lhnnhsclm', 'slug': None, 'token': 'P3flzWHMBk33qsg0VSqo1zhC8ubECCbr', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:43:56Z', 'updated': '2025-08-26T20:43:56Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/c6c1lhnnhsclm.md'}}
+2025-08-26 14:43:56,784 - DEBUG - Write.as initial post_url: None
+2025-08-26 14:43:56,784 - DEBUG - Write.as: post_url is falsy.
+2025-08-26 14:43:56,784 - ERROR - Failed to publish to Write.as. No URL in response: {'code': 201, 'data': {'id': 'c6c1lhnnhsclm', 'slug': None, 'token': 'P3flzWHMBk33qsg0VSqo1zhC8ubECCbr', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:43:56Z', 'updated': '2025-08-26T20:43:56Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/c6c1lhnnhsclm.md'}}
+2025-08-26 14:43:56,785 - WARNING - Failed to publish to write_as
+2025-08-26 14:43:56,785 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:44:09,179 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:44:09,180 - INFO - Parsed Markdown successfully.
+2025-08-26 14:44:09,180 - INFO - Title: My First Automated Post
+2025-08-26 14:44:09,180 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:44:09,180 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:44:09,180 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:44:09,417 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:44:09,419 - WARNING - Failed to publish to dev_to
+2025-08-26 14:44:09,419 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:44:09,419 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:44:09,908 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1
+2025-08-26 14:44:09,909 - INFO - Successfully published to hashnode
+2025-08-26 14:44:09,909 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:44:09,909 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:44:16,463 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-8/
+2025-08-26 14:44:16,467 - INFO - Successfully published to wordpress
+2025-08-26 14:44:16,467 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:44:16,467 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:44:16,755 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'djci23rkn8vzp', 'slug': None, 'token': 'WDeUvL7fNcGBQ1QRaDHb141bTHqjYKDp', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:44:16Z', 'updated': '2025-08-26T20:44:16Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/djci23rkn8vzp.md'}}
+2025-08-26 14:44:16,755 - ERROR - An unexpected error occurred while publishing to write_as: 'url'
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/main.py", line 78, in main
+    success = module.publish(metadata, content, config, logger)
+  File "/Users/bezal/blog_poster/platforms/write_as.py", line 40, in publish
+    post_url = response_data["url"]
+               ~~~~~~~~~~~~~^^^^^^^
+KeyError: 'url'
+2025-08-26 14:44:16,760 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:44:32,205 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:44:32,206 - INFO - Parsed Markdown successfully.
+2025-08-26 14:44:32,206 - INFO - Title: My First Automated Post
+2025-08-26 14:44:32,206 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:44:32,206 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:44:32,206 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:44:32,646 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:44:32,649 - WARNING - Failed to publish to dev_to
+2025-08-26 14:44:32,650 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:44:32,650 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:44:33,137 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1
+2025-08-26 14:44:33,139 - INFO - Successfully published to hashnode
+2025-08-26 14:44:33,139 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:44:33,140 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:44:39,607 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-9/
+2025-08-26 14:44:39,609 - INFO - Successfully published to wordpress
+2025-08-26 14:44:39,609 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:44:39,609 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:44:39,868 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'x9a4pu4rcgapt', 'slug': None, 'token': 'FPRYWlbYjy78FMx2YDh9KREIT9hv5xNt', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:44:39Z', 'updated': '2025-08-26T20:44:39Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/x9a4pu4rcgapt.md'}}
+2025-08-26 14:44:39,868 - DEBUG - Write.as initial post_url: https://write.as/x9a4pu4rcgapt.md
+2025-08-26 14:44:39,869 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 14:44:39,869 - DEBUG - Write.as post_url after stripping .md: https://write.as/x9a4pu4rcgapt
+2025-08-26 14:44:39,869 - INFO - Successfully published to Write.as! URL: https://write.as/x9a4pu4rcgapt
+2025-08-26 14:44:39,869 - INFO - Successfully published to write_as
+2025-08-26 14:44:39,869 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:58:22,884 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:58:22,885 - INFO - Parsed Markdown successfully.
+2025-08-26 14:58:22,885 - INFO - Title: My First Automated Post
+2025-08-26 14:58:22,885 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:58:22,885 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:58:22,885 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:58:23,433 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-15a7
+2025-08-26 14:58:23,435 - INFO - Successfully published to dev_to
+2025-08-26 14:58:23,435 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:58:23,435 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:58:23,986 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1
+2025-08-26 14:58:23,987 - INFO - Successfully published to hashnode
+2025-08-26 14:58:23,987 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 14:58:23,987 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 14:58:24,479 - ERROR - Failed to publish to Telegra.ph. Response: {'ok': False, 'error': 'CONTENT_TEXT_REQUIRED'}
+2025-08-26 14:58:24,479 - WARNING - Failed to publish to telegraph
+2025-08-26 14:58:24,479 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:58:24,479 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:58:31,113 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-10/
+2025-08-26 14:58:31,114 - INFO - Successfully published to wordpress
+2025-08-26 14:58:31,114 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:58:31,114 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:58:31,421 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '7ayg32z7sryo9', 'slug': None, 'token': 'hY82eH4QQPARetP773u1L3jR180ZgSmV', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:58:31Z', 'updated': '2025-08-26T20:58:31Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/7ayg32z7sryo9.md'}}
+2025-08-26 14:58:31,433 - DEBUG - Write.as initial post_url: https://write.as/7ayg32z7sryo9.md
+2025-08-26 14:58:31,434 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 14:58:31,434 - DEBUG - Write.as post_url after stripping .md: https://write.as/7ayg32z7sryo9
+2025-08-26 14:58:31,434 - INFO - Successfully published to Write.as! URL: https://write.as/7ayg32z7sryo9
+2025-08-26 14:58:31,444 - INFO - Successfully published to write_as
+2025-08-26 14:58:31,445 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:58:49,618 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:58:49,619 - INFO - Parsed Markdown successfully.
+2025-08-26 14:58:49,619 - INFO - Title: My First Automated Post
+2025-08-26 14:58:49,619 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:58:49,619 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:58:49,619 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:58:49,864 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:58:49,866 - WARNING - Failed to publish to dev_to
+2025-08-26 14:58:49,866 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:58:49,866 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:58:50,381 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 14:58:50,384 - INFO - Successfully published to hashnode
+2025-08-26 14:58:50,384 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 14:58:50,384 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 14:58:50,902 - ERROR - Failed to publish to Telegra.ph. Response: {'ok': False, 'error': 'CONTENT_TEXT_REQUIRED'}
+2025-08-26 14:58:50,904 - WARNING - Failed to publish to telegraph
+2025-08-26 14:58:50,905 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:58:50,905 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:58:57,363 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-11/
+2025-08-26 14:58:57,365 - INFO - Successfully published to wordpress
+2025-08-26 14:58:57,365 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:58:57,365 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:58:57,715 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '0vy25n2hukcmp', 'slug': None, 'token': 'XJjQyQ9Tuvq6c4haGM7Vo716UGPdPc3i', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:58:57Z', 'updated': '2025-08-26T20:58:57Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/0vy25n2hukcmp.md'}}
+2025-08-26 14:58:57,715 - DEBUG - Write.as initial post_url: https://write.as/0vy25n2hukcmp.md
+2025-08-26 14:58:57,715 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 14:58:57,715 - DEBUG - Write.as post_url after stripping .md: https://write.as/0vy25n2hukcmp
+2025-08-26 14:58:57,715 - INFO - Successfully published to Write.as! URL: https://write.as/0vy25n2hukcmp
+2025-08-26 14:58:57,716 - INFO - Successfully published to write_as
+2025-08-26 14:58:57,716 - INFO - --- Blog distribution run finished ---
+2025-08-26 14:59:17,036 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 14:59:17,037 - INFO - Parsed Markdown successfully.
+2025-08-26 14:59:17,037 - INFO - Title: My First Automated Post
+2025-08-26 14:59:17,037 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 14:59:17,037 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 14:59:17,037 - INFO - Attempting to publish to Dev.to...
+2025-08-26 14:59:17,280 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 14:59:17,281 - WARNING - Failed to publish to dev_to
+2025-08-26 14:59:17,281 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 14:59:17,281 - INFO - Attempting to publish to Hashnode...
+2025-08-26 14:59:17,776 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 14:59:17,777 - INFO - Successfully published to hashnode
+2025-08-26 14:59:17,777 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 14:59:17,777 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 14:59:18,279 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26
+2025-08-26 14:59:18,280 - INFO - Successfully published to telegraph
+2025-08-26 14:59:18,280 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 14:59:18,280 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 14:59:24,800 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-12/
+2025-08-26 14:59:24,803 - INFO - Successfully published to wordpress
+2025-08-26 14:59:24,803 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 14:59:24,803 - INFO - Attempting to publish to Write.as...
+2025-08-26 14:59:25,057 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'y3qzy67nj6t2g', 'slug': None, 'token': 'Pbnko6rGXcLSOiZ33VFvW9qNfSj7MH7F', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T20:59:25Z', 'updated': '2025-08-26T20:59:25Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/y3qzy67nj6t2g.md'}}
+2025-08-26 14:59:25,057 - DEBUG - Write.as initial post_url: https://write.as/y3qzy67nj6t2g.md
+2025-08-26 14:59:25,057 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 14:59:25,057 - DEBUG - Write.as post_url after stripping .md: https://write.as/y3qzy67nj6t2g
+2025-08-26 14:59:25,057 - INFO - Successfully published to Write.as! URL: https://write.as/y3qzy67nj6t2g
+2025-08-26 14:59:25,058 - INFO - Successfully published to write_as
+2025-08-26 14:59:25,058 - INFO - --- Blog distribution run finished ---
+2025-08-26 15:24:38,696 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 15:24:38,697 - INFO - Parsed Markdown successfully.
+2025-08-26 15:24:38,697 - INFO - Title: My First Automated Post
+2025-08-26 15:24:38,697 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 15:24:38,697 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 15:24:38,697 - INFO - Attempting to publish to Blogger...
+2025-08-26 15:24:40,473 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-first-automated-post.html
+2025-08-26 15:24:40,476 - INFO - Successfully published to blogger
+2025-08-26 15:24:40,477 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 15:24:40,477 - INFO - Attempting to publish to Dev.to...
+2025-08-26 15:24:40,883 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-3n1a
+2025-08-26 15:24:40,885 - INFO - Successfully published to dev_to
+2025-08-26 15:24:40,885 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 15:24:40,885 - INFO - Attempting to publish to Hashnode...
+2025-08-26 15:24:41,495 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 15:24:41,496 - INFO - Successfully published to hashnode
+2025-08-26 15:24:41,496 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 15:24:41,496 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 15:24:42,081 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-2
+2025-08-26 15:24:42,081 - INFO - Successfully published to telegraph
+2025-08-26 15:24:42,081 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 15:24:42,081 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 15:24:48,558 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-13/
+2025-08-26 15:24:48,559 - INFO - Successfully published to wordpress
+2025-08-26 15:24:48,559 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 15:24:48,559 - INFO - Attempting to publish to Write.as...
+2025-08-26 15:24:48,842 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'qrrj2x3xcgjfy', 'slug': None, 'token': 'UE8UdveGH5Hddv46jHwXB3WJ2C3dNeug', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T21:24:48Z', 'updated': '2025-08-26T21:24:48Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/qrrj2x3xcgjfy.md'}}
+2025-08-26 15:24:48,842 - DEBUG - Write.as initial post_url: https://write.as/qrrj2x3xcgjfy.md
+2025-08-26 15:24:48,842 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 15:24:48,842 - DEBUG - Write.as post_url after stripping .md: https://write.as/qrrj2x3xcgjfy
+2025-08-26 15:24:48,842 - INFO - Successfully published to Write.as! URL: https://write.as/qrrj2x3xcgjfy
+2025-08-26 15:24:48,843 - INFO - Successfully published to write_as
+2025-08-26 15:24:48,843 - INFO - --- Blog distribution run finished ---
+2025-08-26 15:28:40,402 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 15:28:40,403 - INFO - Parsed Markdown successfully.
+2025-08-26 15:28:40,403 - INFO - Title: My First Automated Post
+2025-08-26 15:28:40,404 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 15:28:40,404 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 15:28:40,404 - INFO - Attempting to publish to Blogger...
+2025-08-26 15:28:41,736 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-first-automated-post_26.html
+2025-08-26 15:28:41,738 - INFO - Successfully published to blogger
+2025-08-26 15:28:41,739 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 15:28:41,739 - INFO - Attempting to publish to Dev.to...
+2025-08-26 15:28:41,986 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 15:28:41,986 - WARNING - Failed to publish to dev_to
+2025-08-26 15:28:41,987 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 15:28:41,987 - INFO - Attempting to publish to Hashnode...
+2025-08-26 15:28:42,656 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 15:28:42,656 - INFO - Successfully published to hashnode
+2025-08-26 15:28:42,656 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 15:28:42,656 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 15:28:43,148 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-3
+2025-08-26 15:28:43,148 - INFO - Successfully published to telegraph
+2025-08-26 15:28:43,148 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 15:28:43,148 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 15:28:49,721 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-14/
+2025-08-26 15:28:49,722 - INFO - Successfully published to wordpress
+2025-08-26 15:28:49,722 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 15:28:49,722 - INFO - Attempting to publish to Write.as...
+2025-08-26 15:28:50,014 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'u33uyr8exgw5c', 'slug': None, 'token': 'HMz0ETrRiX5zZ2lpooSn8SuFTqOMJd5R', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T21:28:49Z', 'updated': '2025-08-26T21:28:50Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/u33uyr8exgw5c.md'}}
+2025-08-26 15:28:50,015 - DEBUG - Write.as initial post_url: https://write.as/u33uyr8exgw5c.md
+2025-08-26 15:28:50,015 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 15:28:50,015 - DEBUG - Write.as post_url after stripping .md: https://write.as/u33uyr8exgw5c
+2025-08-26 15:28:50,015 - INFO - Successfully published to Write.as! URL: https://write.as/u33uyr8exgw5c
+2025-08-26 15:28:50,015 - INFO - Successfully published to write_as
+2025-08-26 15:28:50,015 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:25:42,453 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:25:42,454 - INFO - Parsed Markdown successfully.
+2025-08-26 16:25:42,454 - INFO - Title: My First Automated Post
+2025-08-26 16:25:42,454 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:25:42,454 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:25:42,454 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:25:42,588 - ERROR - Error publishing to Blogger: 401 Client Error: Unauthorized for url: https://www.googleapis.com/blogger/v3/blogs/6479032551921044496/posts/
+2025-08-26 16:25:42,589 - WARNING - Failed to publish to blogger
+2025-08-26 16:25:42,589 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:25:42,589 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:25:43,191 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-3ok2
+2025-08-26 16:25:43,195 - INFO - Successfully published to dev_to
+2025-08-26 16:25:43,195 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:25:43,195 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:25:43,734 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:25:43,736 - INFO - Successfully published to hashnode
+2025-08-26 16:25:43,737 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:25:43,737 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:25:44,313 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-4
+2025-08-26 16:25:44,314 - INFO - Successfully published to telegraph
+2025-08-26 16:25:44,314 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:25:44,314 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:25:44,314 - ERROR - An unexpected error occurred while publishing to tumblr: name 'markdown' is not defined
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/main.py", line 78, in main
+    success = module.publish(metadata, content, config, logger)
+  File "/Users/bezal/blog_poster/platforms/tumblr.py", line 40, in publish
+    html_content = markdown.markdown(post_content)
+                   ^^^^^^^^
+NameError: name 'markdown' is not defined
+2025-08-26 16:25:44,315 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:25:44,315 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:25:50,800 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-15/
+2025-08-26 16:25:50,801 - INFO - Successfully published to wordpress
+2025-08-26 16:25:50,801 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:25:50,801 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:25:51,099 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '1mnlkb1pkll7b', 'slug': None, 'token': '6DNd1RPVBZ7hIAJe9HDvhVgZoGEvrLK7', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:25:51Z', 'updated': '2025-08-26T22:25:51Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/1mnlkb1pkll7b.md'}}
+2025-08-26 16:25:51,099 - DEBUG - Write.as initial post_url: https://write.as/1mnlkb1pkll7b.md
+2025-08-26 16:25:51,099 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:25:51,099 - DEBUG - Write.as post_url after stripping .md: https://write.as/1mnlkb1pkll7b
+2025-08-26 16:25:51,099 - INFO - Successfully published to Write.as! URL: https://write.as/1mnlkb1pkll7b
+2025-08-26 16:25:51,099 - INFO - Successfully published to write_as
+2025-08-26 16:25:51,099 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:26:08,938 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:26:08,939 - INFO - Parsed Markdown successfully.
+2025-08-26 16:26:08,939 - INFO - Title: My First Automated Post
+2025-08-26 16:26:08,939 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:26:08,939 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:26:08,939 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:26:09,053 - ERROR - Error publishing to Blogger: 401 Client Error: Unauthorized for url: https://www.googleapis.com/blogger/v3/blogs/6479032551921044496/posts/
+2025-08-26 16:26:09,053 - WARNING - Failed to publish to blogger
+2025-08-26 16:26:09,053 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:26:09,054 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:26:09,447 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 16:26:09,449 - WARNING - Failed to publish to dev_to
+2025-08-26 16:26:09,449 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:26:09,449 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:26:09,933 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:26:09,935 - INFO - Successfully published to hashnode
+2025-08-26 16:26:09,935 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:26:09,935 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:26:10,454 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-5
+2025-08-26 16:26:10,455 - INFO - Successfully published to telegraph
+2025-08-26 16:26:10,455 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:26:10,455 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:26:10,641 - ERROR - Failed to publish to Tumblr. Response: {'meta': {'status': 404, 'msg': 'Not Found'}, 'errors': [{'title': 'Not Found', 'code': 0, 'detail': 'Unknown error. Try again.'}], 'response': []}
+2025-08-26 16:26:10,641 - WARNING - Failed to publish to tumblr
+2025-08-26 16:26:10,641 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:26:10,641 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:26:17,025 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-16/
+2025-08-26 16:26:17,026 - INFO - Successfully published to wordpress
+2025-08-26 16:26:17,026 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:26:17,026 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:26:17,308 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'pdvilil2owq7d', 'slug': None, 'token': '8edmTI7ZDd2pImA12EH5Da44bn35yv6t', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:26:17Z', 'updated': '2025-08-26T22:26:17Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/pdvilil2owq7d.md'}}
+2025-08-26 16:26:17,309 - DEBUG - Write.as initial post_url: https://write.as/pdvilil2owq7d.md
+2025-08-26 16:26:17,309 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:26:17,309 - DEBUG - Write.as post_url after stripping .md: https://write.as/pdvilil2owq7d
+2025-08-26 16:26:17,309 - INFO - Successfully published to Write.as! URL: https://write.as/pdvilil2owq7d
+2025-08-26 16:26:17,309 - INFO - Successfully published to write_as
+2025-08-26 16:26:17,309 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:27:43,657 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:27:43,658 - INFO - Parsed Markdown successfully.
+2025-08-26 16:27:43,658 - INFO - Title: My First Automated Post
+2025-08-26 16:27:43,658 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:27:43,658 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:27:43,658 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:27:43,796 - ERROR - Error publishing to Blogger: 401 Client Error: Unauthorized for url: https://www.googleapis.com/blogger/v3/blogs/6479032551921044496/posts/
+2025-08-26 16:27:43,797 - WARNING - Failed to publish to blogger
+2025-08-26 16:27:43,797 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:27:43,797 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:27:44,068 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 16:27:44,070 - WARNING - Failed to publish to dev_to
+2025-08-26 16:27:44,070 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:27:44,070 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:27:44,566 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:27:44,569 - INFO - Successfully published to hashnode
+2025-08-26 16:27:44,569 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:27:44,569 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:27:45,105 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-6
+2025-08-26 16:27:45,106 - INFO - Successfully published to telegraph
+2025-08-26 16:27:45,106 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:27:45,106 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:27:45,291 - ERROR - Failed to publish to Tumblr. Response: {'meta': {'status': 401, 'msg': 'Unauthorized'}, 'errors': [{'title': 'Unauthorized', 'code': 1016, 'detail': 'Unable to authorize'}], 'response': []}
+2025-08-26 16:27:45,291 - WARNING - Failed to publish to tumblr
+2025-08-26 16:27:45,291 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:27:45,291 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:27:51,839 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-17/
+2025-08-26 16:27:51,839 - INFO - Successfully published to wordpress
+2025-08-26 16:27:51,839 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:27:51,839 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:27:52,350 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'ki9me70jjw2z0', 'slug': None, 'token': 'wk2bik0SYaMbMkxEZ4O0QFVvkz0ZnRjK', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:27:52Z', 'updated': '2025-08-26T22:27:52Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/ki9me70jjw2z0.md'}}
+2025-08-26 16:27:52,351 - DEBUG - Write.as initial post_url: https://write.as/ki9me70jjw2z0.md
+2025-08-26 16:27:52,351 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:27:52,351 - DEBUG - Write.as post_url after stripping .md: https://write.as/ki9me70jjw2z0
+2025-08-26 16:27:52,351 - INFO - Successfully published to Write.as! URL: https://write.as/ki9me70jjw2z0
+2025-08-26 16:27:52,351 - INFO - Successfully published to write_as
+2025-08-26 16:27:52,351 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:29:14,979 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:29:14,980 - INFO - Parsed Markdown successfully.
+2025-08-26 16:29:14,980 - INFO - Title: My First Automated Post
+2025-08-26 16:29:14,980 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:29:14,980 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:29:14,980 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:29:15,110 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-26 16:29:15,110 - ERROR - Missing client_id, client_secret, refresh_token, or redirect_uris for Blogger token refresh.
+2025-08-26 16:29:15,110 - ERROR - Failed to refresh Blogger token. Cannot publish.
+2025-08-26 16:29:15,110 - WARNING - Failed to publish to blogger
+2025-08-26 16:29:15,110 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:29:15,110 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:29:15,352 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 16:29:15,353 - WARNING - Failed to publish to dev_to
+2025-08-26 16:29:15,353 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:29:15,353 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:29:15,846 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:29:15,849 - INFO - Successfully published to hashnode
+2025-08-26 16:29:15,849 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:29:15,850 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:29:16,439 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-7
+2025-08-26 16:29:16,439 - INFO - Successfully published to telegraph
+2025-08-26 16:29:16,439 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:29:16,439 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:29:16,650 - ERROR - Failed to publish to Tumblr. Response: {'meta': {'status': 401, 'msg': 'Unauthorized'}, 'errors': [{'title': 'Unauthorized', 'code': 1016, 'detail': 'Unable to authorize'}], 'response': []}
+2025-08-26 16:29:16,650 - WARNING - Failed to publish to tumblr
+2025-08-26 16:29:16,650 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:29:16,650 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:29:23,181 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-18/
+2025-08-26 16:29:23,183 - INFO - Successfully published to wordpress
+2025-08-26 16:29:23,183 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:29:23,183 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:29:23,453 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '3vokcdiiopj8f', 'slug': None, 'token': '6rc4KuTYDbBTPFwYRJ6iWn1XJT5UQgem', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:29:23Z', 'updated': '2025-08-26T22:29:23Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/3vokcdiiopj8f.md'}}
+2025-08-26 16:29:23,454 - DEBUG - Write.as initial post_url: https://write.as/3vokcdiiopj8f.md
+2025-08-26 16:29:23,454 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:29:23,454 - DEBUG - Write.as post_url after stripping .md: https://write.as/3vokcdiiopj8f
+2025-08-26 16:29:23,454 - INFO - Successfully published to Write.as! URL: https://write.as/3vokcdiiopj8f
+2025-08-26 16:29:23,454 - INFO - Successfully published to write_as
+2025-08-26 16:29:23,454 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:35:08,241 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:35:08,242 - INFO - Parsed Markdown successfully.
+2025-08-26 16:35:08,242 - INFO - Title: My First Automated Post
+2025-08-26 16:35:08,242 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:35:08,242 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:35:08,242 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:35:08,399 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-26 16:35:08,399 - ERROR - Missing client_id, client_secret, refresh_token, or redirect_uris for Blogger token refresh.
+2025-08-26 16:35:08,399 - ERROR - Failed to refresh Blogger token. Cannot publish.
+2025-08-26 16:35:08,400 - WARNING - Failed to publish to blogger
+2025-08-26 16:35:08,400 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:35:08,400 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:35:08,891 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-39dm
+2025-08-26 16:35:08,893 - INFO - Successfully published to dev_to
+2025-08-26 16:35:08,893 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:35:08,893 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:35:09,504 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:35:09,507 - INFO - Successfully published to hashnode
+2025-08-26 16:35:09,507 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:35:09,508 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:35:10,029 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-8
+2025-08-26 16:35:10,031 - INFO - Successfully published to telegraph
+2025-08-26 16:35:10,031 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:35:10,031 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:35:10,529 - INFO - Successfully published to Tumblr! Post ID: 792983199095668736, URL: https://beyondtheedge-blog/post/792983199095668736
+2025-08-26 16:35:10,530 - INFO - Successfully published to tumblr
+2025-08-26 16:35:10,530 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:35:10,530 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:35:16,984 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-19/
+2025-08-26 16:35:16,994 - INFO - Successfully published to wordpress
+2025-08-26 16:35:16,994 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:35:16,994 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:35:17,368 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'ofxnyv0jsl446', 'slug': None, 'token': 'WK0hK5vJbM9ERiVitZ5I5k4QmUNdjyOQ', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:35:17Z', 'updated': '2025-08-26T22:35:17Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/ofxnyv0jsl446.md'}}
+2025-08-26 16:35:17,368 - DEBUG - Write.as initial post_url: https://write.as/ofxnyv0jsl446.md
+2025-08-26 16:35:17,368 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:35:17,369 - DEBUG - Write.as post_url after stripping .md: https://write.as/ofxnyv0jsl446
+2025-08-26 16:35:17,369 - INFO - Successfully published to Write.as! URL: https://write.as/ofxnyv0jsl446
+2025-08-26 16:35:17,370 - INFO - Successfully published to write_as
+2025-08-26 16:35:17,371 - INFO - --- Blog distribution run finished ---
+2025-08-26 16:54:29,183 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 16:54:29,185 - INFO - Parsed Markdown successfully.
+2025-08-26 16:54:29,185 - INFO - Title: My First Automated Post
+2025-08-26 16:54:29,185 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 16:54:29,185 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 16:54:29,185 - INFO - Attempting to publish to Blogger...
+2025-08-26 16:54:31,264 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-first-automated-post_71.html
+2025-08-26 16:54:31,274 - INFO - Successfully published to blogger
+2025-08-26 16:54:31,275 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 16:54:31,275 - INFO - Attempting to publish to Dev.to...
+2025-08-26 16:54:31,733 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-5glc
+2025-08-26 16:54:31,736 - INFO - Successfully published to dev_to
+2025-08-26 16:54:31,736 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 16:54:31,736 - INFO - Attempting to publish to Hashnode...
+2025-08-26 16:54:32,225 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 16:54:32,229 - INFO - Successfully published to hashnode
+2025-08-26 16:54:32,230 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 16:54:32,230 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 16:54:32,840 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-9
+2025-08-26 16:54:32,842 - INFO - Successfully published to telegraph
+2025-08-26 16:54:32,842 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 16:54:32,842 - INFO - Attempting to publish to Tumblr...
+2025-08-26 16:54:33,316 - INFO - Successfully published to Tumblr! Post ID: 792984418408087552, URL: https://beyondtheedge-blog/post/792984418408087552
+2025-08-26 16:54:33,316 - INFO - Successfully published to tumblr
+2025-08-26 16:54:33,316 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 16:54:33,316 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 16:54:39,873 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-20/
+2025-08-26 16:54:39,876 - INFO - Successfully published to wordpress
+2025-08-26 16:54:39,876 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 16:54:39,877 - INFO - Attempting to publish to Write.as...
+2025-08-26 16:54:40,237 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '380k65ry4xu30', 'slug': None, 'token': 'recaHbi7GX5EoPYlxFsWSySvIYzda1pC', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T22:54:40Z', 'updated': '2025-08-26T22:54:40Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/380k65ry4xu30.md'}}
+2025-08-26 16:54:40,237 - DEBUG - Write.as initial post_url: https://write.as/380k65ry4xu30.md
+2025-08-26 16:54:40,237 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 16:54:40,237 - DEBUG - Write.as post_url after stripping .md: https://write.as/380k65ry4xu30
+2025-08-26 16:54:40,237 - INFO - Successfully published to Write.as! URL: https://write.as/380k65ry4xu30
+2025-08-26 16:54:40,239 - INFO - Successfully published to write_as
+2025-08-26 16:54:40,239 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:02:25,398 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-26 17:02:25,399 - INFO - Parsed Markdown successfully.
+2025-08-26 17:02:25,400 - INFO - Title: My First Automated Post
+2025-08-26 17:02:25,400 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-26 17:02:25,400 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:02:25,400 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:02:27,415 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-first-automated-post_13.html
+2025-08-26 17:02:27,416 - INFO - Successfully published to blogger
+2025-08-26 17:02:27,417 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:02:27,417 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:02:27,872 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-l4g
+2025-08-26 17:02:27,874 - INFO - Successfully published to dev_to
+2025-08-26 17:02:27,874 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:02:27,874 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:02:28,380 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-26 17:02:28,381 - INFO - Successfully published to hashnode
+2025-08-26 17:02:28,382 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:02:28,382 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:02:28,965 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-26-10
+2025-08-26 17:02:28,967 - INFO - Successfully published to telegraph
+2025-08-26 17:02:28,967 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:02:28,967 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:02:29,417 - INFO - Successfully published to Tumblr! Post ID: 792984917627830272, URL: https://beyondtheedge-blog/post/792984917627830272
+2025-08-26 17:02:29,418 - INFO - Successfully published to tumblr
+2025-08-26 17:02:29,418 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:02:29,418 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:02:35,886 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-first-automated-post-21/
+2025-08-26 17:02:35,894 - INFO - Successfully published to wordpress
+2025-08-26 17:02:35,894 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:02:35,894 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:02:36,180 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'up14bk42c3fag', 'slug': None, 'token': 'ayCvgaajj16T2vhH8Co30UP6Dub7jCQw', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:02:36Z', 'updated': '2025-08-26T23:02:36Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/up14bk42c3fag.md'}}
+2025-08-26 17:02:36,180 - DEBUG - Write.as initial post_url: https://write.as/up14bk42c3fag.md
+2025-08-26 17:02:36,180 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:02:36,180 - DEBUG - Write.as post_url after stripping .md: https://write.as/up14bk42c3fag
+2025-08-26 17:02:36,180 - INFO - Successfully published to Write.as! URL: https://write.as/up14bk42c3fag
+2025-08-26 17:02:36,180 - INFO - Successfully published to write_as
+2025-08-26 17:02:36,180 - INFO - 
+--- Publishing to Writefreely ---
+2025-08-26 17:02:36,180 - INFO - Attempting to publish to WriteFreely...
+2025-08-26 17:02:36,180 - ERROR - Error: WriteFreely base_url is missing or not set in config.py.
+2025-08-26 17:02:36,180 - WARNING - Failed to publish to writefreely
+2025-08-26 17:02:36,181 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:09:04,503 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:09:25,164 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:09:25,166 - INFO - Parsed Markdown successfully.
+2025-08-26 17:09:25,166 - INFO - Title: My Automated Post with Image
+2025-08-26 17:09:25,166 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:09:25,166 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:09:25,166 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:09:25,166 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:26,643 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image.html
+2025-08-26 17:09:26,644 - INFO - Successfully published to blogger
+2025-08-26 17:09:26,644 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:09:26,644 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:09:26,644 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:27,122 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-automated-post-with-image-181h
+2025-08-26 17:09:27,123 - INFO - Successfully published to dev_to
+2025-08-26 17:09:27,123 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:09:27,123 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:09:27,123 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:27,666 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image
+2025-08-26 17:09:27,667 - INFO - Successfully published to hashnode
+2025-08-26 17:09:27,667 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:09:27,667 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:09:27,667 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:28,254 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26
+2025-08-26 17:09:28,256 - INFO - Successfully published to telegraph
+2025-08-26 17:09:28,256 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:09:28,256 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:09:28,257 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:28,723 - INFO - Successfully published to Tumblr! Post ID: 792985357305167872, URL: https://beyondtheedge-blog/post/792985357305167872
+2025-08-26 17:09:28,723 - INFO - Successfully published to tumblr
+2025-08-26 17:09:28,723 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:09:28,723 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:09:28,723 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:09:28,951 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 29, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:09:28,956 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:09:36,357 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image/
+2025-08-26 17:09:36,360 - INFO - Successfully published to wordpress
+2025-08-26 17:09:36,360 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:09:36,360 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:09:36,360 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:36,684 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '6iyopbe2qnjps', 'slug': None, 'token': 'ED9l1Tl4gfAmnD2tMJWqw07DFgbP9m3k', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:09:36Z', 'updated': '2025-08-26T23:09:36Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/6iyopbe2qnjps.md'}}
+2025-08-26 17:09:36,685 - DEBUG - Write.as initial post_url: https://write.as/6iyopbe2qnjps.md
+2025-08-26 17:09:36,685 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:09:36,685 - DEBUG - Write.as post_url after stripping .md: https://write.as/6iyopbe2qnjps
+2025-08-26 17:09:36,685 - INFO - Successfully published to Write.as! URL: https://write.as/6iyopbe2qnjps
+2025-08-26 17:09:36,685 - INFO - Successfully published to write_as
+2025-08-26 17:09:36,685 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:09:52,340 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:09:52,341 - INFO - Parsed Markdown successfully.
+2025-08-26 17:09:52,341 - INFO - Title: My Automated Post with Image
+2025-08-26 17:09:52,341 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:09:52,341 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:09:52,341 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:09:52,341 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:54,286 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_26.html
+2025-08-26 17:09:54,288 - INFO - Successfully published to blogger
+2025-08-26 17:09:54,288 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:09:54,288 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:09:54,289 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:54,548 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 17:09:54,550 - WARNING - Failed to publish to dev_to
+2025-08-26 17:09:54,550 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:09:54,550 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:09:54,550 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:55,011 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1
+2025-08-26 17:09:55,014 - INFO - Successfully published to hashnode
+2025-08-26 17:09:55,014 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:09:55,014 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:09:55,014 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:55,529 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-2
+2025-08-26 17:09:55,532 - INFO - Successfully published to telegraph
+2025-08-26 17:09:55,532 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:09:55,532 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:09:55,533 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:09:56,335 - INFO - Successfully published to Tumblr! Post ID: 792985385884123136, URL: https://beyondtheedge-blog/post/792985385884123136
+2025-08-26 17:09:56,335 - INFO - Successfully published to tumblr
+2025-08-26 17:09:56,335 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:09:56,335 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:09:56,335 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:09:56,561 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 29, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:09:56,566 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:10:03,001 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-2/
+2025-08-26 17:10:03,003 - INFO - Successfully published to wordpress
+2025-08-26 17:10:03,003 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:10:03,003 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:10:03,003 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:03,289 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'pb5l04uykv25q', 'slug': None, 'token': '3jSIj0r3ABn71vnEqDpch1cj5K3TCWQH', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:10:03Z', 'updated': '2025-08-26T23:10:03Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/pb5l04uykv25q.md'}}
+2025-08-26 17:10:03,289 - DEBUG - Write.as initial post_url: https://write.as/pb5l04uykv25q.md
+2025-08-26 17:10:03,289 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:10:03,289 - DEBUG - Write.as post_url after stripping .md: https://write.as/pb5l04uykv25q
+2025-08-26 17:10:03,289 - INFO - Successfully published to Write.as! URL: https://write.as/pb5l04uykv25q
+2025-08-26 17:10:03,291 - INFO - Successfully published to write_as
+2025-08-26 17:10:03,291 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:10:37,825 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:10:37,826 - INFO - Parsed Markdown successfully.
+2025-08-26 17:10:37,826 - INFO - Title: My Automated Post with Image
+2025-08-26 17:10:37,826 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:10:37,826 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:10:37,826 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:10:37,826 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:39,555 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_58.html
+2025-08-26 17:10:39,557 - INFO - Successfully published to blogger
+2025-08-26 17:10:39,557 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:10:39,557 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:10:39,557 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:39,810 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 17:10:39,811 - WARNING - Failed to publish to dev_to
+2025-08-26 17:10:39,811 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:10:39,811 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:10:39,811 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:40,268 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1
+2025-08-26 17:10:40,271 - INFO - Successfully published to hashnode
+2025-08-26 17:10:40,271 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:10:40,271 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:10:40,271 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:40,792 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-3
+2025-08-26 17:10:40,793 - INFO - Successfully published to telegraph
+2025-08-26 17:10:40,793 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:10:40,793 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:10:40,793 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:41,192 - INFO - Successfully published to Tumblr! Post ID: 792985433340575744, URL: https://beyondtheedge-blog/post/792985433340575744
+2025-08-26 17:10:41,192 - INFO - Successfully published to tumblr
+2025-08-26 17:10:41,192 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:10:41,192 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:10:41,192 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:10:41,411 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 29, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:10:41,417 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:10:48,009 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-3/
+2025-08-26 17:10:48,022 - INFO - Successfully published to wordpress
+2025-08-26 17:10:48,022 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:10:48,022 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:10:48,022 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:10:48,334 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '3cxbfnfth699c', 'slug': None, 'token': 'unvSlPo6d8FvOIEW0n4gS0zXxIA7yrNp', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:10:48Z', 'updated': '2025-08-26T23:10:48Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/3cxbfnfth699c.md'}}
+2025-08-26 17:10:48,335 - DEBUG - Write.as initial post_url: https://write.as/3cxbfnfth699c.md
+2025-08-26 17:10:48,335 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:10:48,335 - DEBUG - Write.as post_url after stripping .md: https://write.as/3cxbfnfth699c
+2025-08-26 17:10:48,335 - INFO - Successfully published to Write.as! URL: https://write.as/3cxbfnfth699c
+2025-08-26 17:10:48,336 - INFO - Successfully published to write_as
+2025-08-26 17:10:48,337 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:11:17,358 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:11:17,359 - INFO - Parsed Markdown successfully.
+2025-08-26 17:11:17,359 - INFO - Title: My Automated Post with Image
+2025-08-26 17:11:17,359 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:11:17,359 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:11:17,359 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:11:17,359 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:19,389 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_39.html
+2025-08-26 17:11:19,391 - INFO - Successfully published to blogger
+2025-08-26 17:11:19,391 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:11:19,391 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:11:19,391 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:19,632 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 17:11:19,634 - WARNING - Failed to publish to dev_to
+2025-08-26 17:11:19,634 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:11:19,634 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:11:19,634 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:20,069 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1-1
+2025-08-26 17:11:20,071 - INFO - Successfully published to hashnode
+2025-08-26 17:11:20,072 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:11:20,072 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:11:20,072 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:20,611 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-4
+2025-08-26 17:11:20,614 - INFO - Successfully published to telegraph
+2025-08-26 17:11:20,614 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:11:20,614 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:11:20,614 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:21,031 - INFO - Successfully published to Tumblr! Post ID: 792985475104325633, URL: https://beyondtheedge-blog/post/792985475104325633
+2025-08-26 17:11:21,032 - INFO - Successfully published to tumblr
+2025-08-26 17:11:21,032 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:11:21,032 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:11:21,032 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:11:21,032 - DEBUG - Attempting image upload to https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new for test_image.png
+2025-08-26 17:11:21,264 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 34, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:11:21,269 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:11:27,889 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-4/
+2025-08-26 17:11:27,892 - INFO - Successfully published to wordpress
+2025-08-26 17:11:27,892 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:11:27,892 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:11:27,892 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:11:28,153 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'vkd5qavyxgkox', 'slug': None, 'token': 'rcEHKFSu0BD7ZkN0P14lw5YA7OAR14Nu', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:11:28Z', 'updated': '2025-08-26T23:11:28Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/vkd5qavyxgkox.md'}}
+2025-08-26 17:11:28,153 - DEBUG - Write.as initial post_url: https://write.as/vkd5qavyxgkox.md
+2025-08-26 17:11:28,153 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:11:28,153 - DEBUG - Write.as post_url after stripping .md: https://write.as/vkd5qavyxgkox
+2025-08-26 17:11:28,153 - INFO - Successfully published to Write.as! URL: https://write.as/vkd5qavyxgkox
+2025-08-26 17:11:28,154 - INFO - Successfully published to write_as
+2025-08-26 17:11:28,154 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:11:58,843 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:11:58,844 - INFO - Parsed Markdown successfully.
+2025-08-26 17:11:58,844 - INFO - Title: My Automated Post with Image
+2025-08-26 17:11:58,844 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:11:58,845 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:11:58,845 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:11:58,845 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:00,758 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_54.html
+2025-08-26 17:12:00,760 - INFO - Successfully published to blogger
+2025-08-26 17:12:00,761 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:12:00,761 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:12:00,761 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:01,923 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 17:12:01,924 - WARNING - Failed to publish to dev_to
+2025-08-26 17:12:01,924 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:12:01,924 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:12:01,924 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:02,340 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1-1-1
+2025-08-26 17:12:02,344 - INFO - Successfully published to hashnode
+2025-08-26 17:12:02,344 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:12:02,344 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:12:02,344 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:02,888 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-5
+2025-08-26 17:12:02,889 - INFO - Successfully published to telegraph
+2025-08-26 17:12:02,889 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:12:02,889 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:12:02,889 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:03,253 - INFO - Successfully published to Tumblr! Post ID: 792985519429730304, URL: https://beyondtheedge-blog/post/792985519429730304
+2025-08-26 17:12:03,254 - INFO - Successfully published to tumblr
+2025-08-26 17:12:03,254 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:12:03,254 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:12:03,254 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:12:03,255 - DEBUG - Attempting image upload to https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new for test_image.png with slug test_image
+2025-08-26 17:12:03,487 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new?slug=test_image
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 38, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new?slug=test_image
+2025-08-26 17:12:03,490 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:12:09,983 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-5/
+2025-08-26 17:12:09,985 - INFO - Successfully published to wordpress
+2025-08-26 17:12:09,986 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:12:09,986 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:12:09,986 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:10,611 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '0yf408hjeff81', 'slug': None, 'token': '6goKf2wq4mxQJZTLR4NnbO5xNUi2Ba0z', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:12:10Z', 'updated': '2025-08-26T23:12:10Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/0yf408hjeff81.md'}}
+2025-08-26 17:12:10,612 - DEBUG - Write.as initial post_url: https://write.as/0yf408hjeff81.md
+2025-08-26 17:12:10,612 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:12:10,612 - DEBUG - Write.as post_url after stripping .md: https://write.as/0yf408hjeff81
+2025-08-26 17:12:10,612 - INFO - Successfully published to Write.as! URL: https://write.as/0yf408hjeff81
+2025-08-26 17:12:10,614 - INFO - Successfully published to write_as
+2025-08-26 17:12:10,614 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:12:44,888 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:12:44,889 - INFO - Parsed Markdown successfully.
+2025-08-26 17:12:44,889 - INFO - Title: My Automated Post with Image
+2025-08-26 17:12:44,889 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:12:44,889 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:12:44,889 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:12:44,889 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:46,765 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_37.html
+2025-08-26 17:12:46,767 - INFO - Successfully published to blogger
+2025-08-26 17:12:46,767 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:12:46,767 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:12:46,767 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:47,150 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-26 17:12:47,152 - WARNING - Failed to publish to dev_to
+2025-08-26 17:12:47,152 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:12:47,152 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:12:47,152 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:47,556 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1-1-1-1
+2025-08-26 17:12:47,558 - INFO - Successfully published to hashnode
+2025-08-26 17:12:47,558 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:12:47,558 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:12:47,559 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:48,073 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-6
+2025-08-26 17:12:48,074 - INFO - Successfully published to telegraph
+2025-08-26 17:12:48,074 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:12:48,074 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:12:48,074 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:48,707 - INFO - Successfully published to Tumblr! Post ID: 792985566803263488, URL: https://beyondtheedge-blog/post/792985566803263488
+2025-08-26 17:12:48,707 - INFO - Successfully published to tumblr
+2025-08-26 17:12:48,707 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:12:48,707 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:12:48,707 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:12:48,708 - DEBUG - Attempting image upload to https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new for test_image.png
+2025-08-26 17:12:48,945 - ERROR - Error uploading image to WordPress.com: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 36, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:12:48,949 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:12:55,646 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-6/
+2025-08-26 17:12:55,649 - INFO - Successfully published to wordpress
+2025-08-26 17:12:55,650 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:12:55,650 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:12:55,650 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:12:56,261 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '8eioykppnxxr1', 'slug': None, 'token': 'qh6grUYhuawZZNejWboh8ZmwGA24wp7h', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:12:55Z', 'updated': '2025-08-26T23:12:56Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/8eioykppnxxr1.md'}}
+2025-08-26 17:12:56,262 - DEBUG - Write.as initial post_url: https://write.as/8eioykppnxxr1.md
+2025-08-26 17:12:56,262 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:12:56,264 - DEBUG - Write.as post_url after stripping .md: https://write.as/8eioykppnxxr1
+2025-08-26 17:12:56,264 - INFO - Successfully published to Write.as! URL: https://write.as/8eioykppnxxr1
+2025-08-26 17:12:56,267 - INFO - Successfully published to write_as
+2025-08-26 17:12:56,267 - INFO - --- Blog distribution run finished ---
+2025-08-26 17:41:46,646 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-26 17:41:46,647 - INFO - Parsed Markdown successfully.
+2025-08-26 17:41:46,647 - INFO - Title: My Automated Post with Image
+2025-08-26 17:41:46,647 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-26 17:41:46,647 - INFO - 
+--- Publishing to Blogger ---
+2025-08-26 17:41:46,648 - INFO - Attempting to publish to Blogger...
+2025-08-26 17:41:46,648 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:48,808 - INFO - Successfully published to Blogger! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_34.html
+2025-08-26 17:41:48,810 - INFO - Successfully published to blogger
+2025-08-26 17:41:48,810 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-26 17:41:48,811 - INFO - Attempting to publish to Dev.to...
+2025-08-26 17:41:48,811 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:49,262 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-automated-post-with-image-22he
+2025-08-26 17:41:49,265 - INFO - Successfully published to dev_to
+2025-08-26 17:41:49,265 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-26 17:41:49,265 - INFO - Attempting to publish to Hashnode...
+2025-08-26 17:41:49,265 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:49,815 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1-1-1-1-1
+2025-08-26 17:41:49,817 - INFO - Successfully published to hashnode
+2025-08-26 17:41:49,817 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-26 17:41:49,817 - INFO - Attempting to publish to Telegra.ph...
+2025-08-26 17:41:49,817 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:50,350 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-26-7
+2025-08-26 17:41:50,351 - INFO - Successfully published to telegraph
+2025-08-26 17:41:50,351 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-26 17:41:50,352 - INFO - Attempting to publish to Tumblr...
+2025-08-26 17:41:50,352 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:50,810 - INFO - Successfully published to Tumblr! Post ID: 792987393685880832, URL: https://beyondtheedge-blog/post/792987393685880832
+2025-08-26 17:41:50,810 - INFO - Successfully published to tumblr
+2025-08-26 17:41:50,810 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-26 17:41:50,811 - INFO - Attempting to publish to WordPress.com...
+2025-08-26 17:41:50,811 - INFO - Found 1 local images. Attempting to upload to WordPress.com...
+2025-08-26 17:41:50,811 - DEBUG - Attempting image upload to https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new for test_image.png
+2025-08-26 17:41:51,039 - ERROR - Error uploading image to WordPress.com: 403 Client Error: Forbidden for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+Traceback (most recent call last):
+  File "/Users/bezal/blog_poster/platforms/wordpress.py", line 42, in _upload_image_to_wordpress
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/bezal/blog_poster/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://public-api.wordpress.com/rest/v1.1/sites/247785910/media/new
+2025-08-26 17:41:51,044 - WARNING - Could not upload image /Users/bezal/images/test_image.png. It will not appear in the post.
+2025-08-26 17:41:57,689 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/26/my-automated-post-with-image-7/
+2025-08-26 17:41:57,693 - INFO - Successfully published to wordpress
+2025-08-26 17:41:57,693 - INFO - 
+--- Publishing to Write.as ---
+2025-08-26 17:41:57,693 - INFO - Attempting to publish to Write.as...
+2025-08-26 17:41:57,693 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-26 17:41:58,000 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'neg4w2lepzjhr', 'slug': None, 'token': '0CpR8UN4WSOH2ZDC7jmA8SKrUW5CILDj', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-26T23:41:57Z', 'updated': '2025-08-26T23:41:58Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/neg4w2lepzjhr.md'}}
+2025-08-26 17:41:58,001 - DEBUG - Write.as initial post_url: https://write.as/neg4w2lepzjhr.md
+2025-08-26 17:41:58,001 - DEBUG - Write.as: post_url is truthy.
+2025-08-26 17:41:58,001 - DEBUG - Write.as post_url after stripping .md: https://write.as/neg4w2lepzjhr
+2025-08-26 17:41:58,001 - INFO - Successfully published to Write.as! URL: https://write.as/neg4w2lepzjhr
+2025-08-26 17:41:58,003 - INFO - Successfully published to write_as
+2025-08-26 17:41:58,003 - INFO - --- Blog distribution run finished ---
+2025-08-27 15:13:43,749 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_with_image.md ---
+2025-08-27 15:13:43,750 - INFO - Parsed Markdown successfully.
+2025-08-27 15:13:43,750 - INFO - Title: My Automated Post with Image
+2025-08-27 15:13:43,750 - INFO - Tags: ['python', 'automation', 'image', 'gemini']
+2025-08-27 15:13:43,750 - INFO - 
+--- Publishing to Blogger ---
+2025-08-27 15:13:43,750 - INFO - Attempting to publish to Blogger...
+2025-08-27 15:13:43,750 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:43,905 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-27 15:13:44,082 - INFO - Blogger access token refreshed successfully.
+2025-08-27 15:13:44,083 - ERROR - Could not find PLATFORM_CONFIGS in config.py. Cannot update token.
+2025-08-27 15:13:44,083 - INFO - Retrying Blogger post with new access token...
+2025-08-27 15:13:45,789 - INFO - Successfully published to Blogger after refresh! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-image_27.html
+2025-08-27 15:13:45,793 - INFO - Successfully published to blogger
+2025-08-27 15:13:45,793 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-27 15:13:45,793 - INFO - Attempting to publish to Dev.to...
+2025-08-27 15:13:45,793 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:46,420 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-automated-post-with-image-4mci
+2025-08-27 15:13:46,421 - INFO - Successfully published to dev_to
+2025-08-27 15:13:46,421 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-27 15:13:46,421 - INFO - Attempting to publish to Hashnode...
+2025-08-27 15:13:46,421 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:46,899 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-image-1-1-1-1-1-1-1
+2025-08-27 15:13:46,901 - INFO - Successfully published to hashnode
+2025-08-27 15:13:46,901 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-27 15:13:46,901 - INFO - Attempting to publish to Telegra.ph...
+2025-08-27 15:13:46,901 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:47,493 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Image-08-27
+2025-08-27 15:13:47,495 - INFO - Successfully published to telegraph
+2025-08-27 15:13:47,496 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-27 15:13:47,496 - INFO - Attempting to publish to Tumblr...
+2025-08-27 15:13:47,496 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:47,879 - INFO - Successfully published to Tumblr! Post ID: 793068676362485760, URL: https://beyondtheedge-blog/post/793068676362485760
+2025-08-27 15:13:47,879 - INFO - Successfully published to tumblr
+2025-08-27 15:13:47,879 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-27 15:13:47,880 - INFO - Attempting to publish to WordPress.com...
+2025-08-27 15:13:47,880 - WARNING - WordPress.com image upload via API is not supported on your current plan. Images will be skipped. Please use externally hosted images.
+2025-08-27 15:13:53,901 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/27/my-automated-post-with-image-8/
+2025-08-27 15:13:53,904 - INFO - Successfully published to wordpress
+2025-08-27 15:13:53,905 - INFO - 
+--- Publishing to Write.as ---
+2025-08-27 15:13:53,905 - INFO - Attempting to publish to Write.as...
+2025-08-27 15:13:53,905 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:13:54,234 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'a0o61a3oggy5d', 'slug': None, 'token': 'FyHlD9NeCBuVHNq5cTsE7jfmcVDoMBHu', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-27T21:13:54Z', 'updated': '2025-08-27T21:13:54Z', 'title': 'My Automated Post with Image', 'body': "# Hello World! This post has an image!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nHere is a local image:\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/a0o61a3oggy5d.md'}}
+2025-08-27 15:13:54,234 - DEBUG - Write.as initial post_url: https://write.as/a0o61a3oggy5d.md
+2025-08-27 15:13:54,234 - DEBUG - Write.as: post_url is truthy.
+2025-08-27 15:13:54,234 - DEBUG - Write.as post_url after stripping .md: https://write.as/a0o61a3oggy5d
+2025-08-27 15:13:54,234 - INFO - Successfully published to Write.as! URL: https://write.as/a0o61a3oggy5d
+2025-08-27 15:13:54,234 - INFO - Successfully published to write_as
+2025-08-27 15:13:54,234 - INFO - --- Blog distribution run finished ---
+2025-08-27 15:17:09,451 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post_full_metadata.md ---
+2025-08-27 15:17:09,452 - INFO - Parsed Markdown successfully.
+2025-08-27 15:17:09,452 - INFO - Title: My Automated Post with Full Metadata
+2025-08-27 15:17:09,452 - INFO - Tags: ['python', 'automation', 'metadata', 'gemini']
+2025-08-27 15:17:09,452 - INFO - Author: Gemini Bot
+2025-08-27 15:17:09,452 - INFO - Date: 2025-08-27 10:00:00+00:00
+2025-08-27 15:17:09,452 - INFO - Description: This is a test post to verify full metadata parsing and distribution.
+2025-08-27 15:17:09,452 - INFO - 
+--- Publishing to Blogger ---
+2025-08-27 15:17:09,452 - INFO - Attempting to publish to Blogger...
+2025-08-27 15:17:09,452 - WARNING - Blogger does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:09,601 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-27 15:17:09,779 - INFO - Blogger access token refreshed successfully.
+2025-08-27 15:17:09,780 - ERROR - Could not find PLATFORM_CONFIGS in config.py. Cannot update token.
+2025-08-27 15:17:09,782 - INFO - Retrying Blogger post with new access token...
+2025-08-27 15:17:11,304 - INFO - Successfully published to Blogger after refresh! URL: http://mavericksedge.blogspot.com/2025/08/my-automated-post-with-full-metadata.html
+2025-08-27 15:17:11,309 - INFO - Successfully published to blogger
+2025-08-27 15:17:11,310 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-27 15:17:11,310 - INFO - Attempting to publish to Dev.to...
+2025-08-27 15:17:11,310 - WARNING - Dev.to does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:11,736 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-automated-post-with-full-metadata-3ce9
+2025-08-27 15:17:11,737 - INFO - Successfully published to dev_to
+2025-08-27 15:17:11,737 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-27 15:17:11,737 - INFO - Attempting to publish to Hashnode...
+2025-08-27 15:17:11,737 - WARNING - Hashnode does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:12,246 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-automated-post-with-full-metadata
+2025-08-27 15:17:12,249 - INFO - Successfully published to hashnode
+2025-08-27 15:17:12,249 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-27 15:17:12,249 - INFO - Attempting to publish to Telegra.ph...
+2025-08-27 15:17:12,249 - WARNING - Telegra.ph does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:12,781 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-Automated-Post-with-Full-Metadata-08-27
+2025-08-27 15:17:12,782 - INFO - Successfully published to telegraph
+2025-08-27 15:17:12,782 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-27 15:17:12,782 - INFO - Attempting to publish to Tumblr...
+2025-08-27 15:17:12,782 - WARNING - Tumblr does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:13,681 - INFO - Successfully published to Tumblr! Post ID: 793068891610939392, URL: https://beyondtheedge-blog/post/793068891610939392
+2025-08-27 15:17:13,681 - INFO - Successfully published to tumblr
+2025-08-27 15:17:13,681 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-27 15:17:13,681 - INFO - Attempting to publish to WordPress.com...
+2025-08-27 15:17:13,681 - WARNING - WordPress.com image upload via API is not supported on your current plan. Images will be skipped. Please use externally hosted images.
+2025-08-27 15:17:19,725 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/27/my-automated-post-with-full-metadata/
+2025-08-27 15:17:19,728 - INFO - Successfully published to wordpress
+2025-08-27 15:17:19,728 - INFO - 
+--- Publishing to Write.as ---
+2025-08-27 15:17:19,728 - INFO - Attempting to publish to Write.as...
+2025-08-27 15:17:19,728 - WARNING - Write.as does not currently support direct image uploads via this script. Images will be skipped.
+2025-08-27 15:17:19,978 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'b8xhcqywbxemj', 'slug': None, 'token': 'ri36vgE4JTFJsxrjd4V5n8NHrYPe6wbx', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-27T21:17:20Z', 'updated': '2025-08-27T21:17:20Z', 'title': 'My Automated Post with Full Metadata', 'body': "# Hello World! This post has full metadata!\n\nThis is the body of my blog post, published automatically by a script I built with Gemini.\n\nIt includes author, date, and description in its front-matter.\n\n![Test Image](./images/test_image.png)\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/b8xhcqywbxemj.md'}}
+2025-08-27 15:17:19,978 - DEBUG - Write.as initial post_url: https://write.as/b8xhcqywbxemj.md
+2025-08-27 15:17:19,979 - DEBUG - Write.as: post_url is truthy.
+2025-08-27 15:17:19,979 - DEBUG - Write.as post_url after stripping .md: https://write.as/b8xhcqywbxemj
+2025-08-27 15:17:19,979 - INFO - Successfully published to Write.as! URL: https://write.as/b8xhcqywbxemj
+2025-08-27 15:17:19,980 - INFO - Successfully published to write_as
+2025-08-27 15:17:19,981 - INFO - --- Blog distribution run finished ---
+2025-08-27 15:24:37,120 - INFO - --- Starting new blog distribution run for: /Users/bezal/sample_post.md ---
+2025-08-27 15:24:37,121 - INFO - Parsed Markdown successfully.
+2025-08-27 15:24:37,121 - INFO - Title: My First Automated Post
+2025-08-27 15:24:37,121 - INFO - Tags: ['python', 'automation', 'api', 'gemini']
+2025-08-27 15:24:37,121 - INFO - 
+--- Publishing to Blogger ---
+2025-08-27 15:24:37,121 - INFO - Attempting to publish to Blogger...
+2025-08-27 15:24:37,262 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-27 15:24:37,423 - INFO - Blogger access token refreshed successfully.
+2025-08-27 15:24:37,427 - ERROR - Could not find PLATFORM_CONFIGS in config.py. Cannot update token.
+2025-08-27 15:24:37,429 - INFO - Retrying Blogger post with new access token...
+2025-08-27 15:24:39,237 - INFO - Successfully published to Blogger after refresh! URL: http://mavericksedge.blogspot.com/2025/08/my-first-automated-post_27.html
+2025-08-27 15:24:39,241 - INFO - Successfully published to blogger
+2025-08-27 15:24:39,241 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-27 15:24:39,241 - INFO - Attempting to publish to Dev.to...
+2025-08-27 15:24:39,848 - INFO - Successfully published to Dev.to! URL: https://dev.to/bezal_benny_68a567103f98c/my-first-automated-post-4kdo
+2025-08-27 15:24:39,850 - INFO - Successfully published to dev_to
+2025-08-27 15:24:39,850 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-27 15:24:39,850 - INFO - Attempting to publish to Hashnode...
+2025-08-27 15:24:40,360 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/my-first-automated-post-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1
+2025-08-27 15:24:40,362 - INFO - Successfully published to hashnode
+2025-08-27 15:24:40,362 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-27 15:24:40,362 - INFO - Attempting to publish to Telegra.ph...
+2025-08-27 15:24:40,977 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/My-First-Automated-Post-08-27
+2025-08-27 15:24:40,977 - INFO - Successfully published to telegraph
+2025-08-27 15:24:40,978 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-27 15:24:40,978 - INFO - Attempting to publish to Tumblr...
+2025-08-27 15:24:41,424 - INFO - Successfully published to Tumblr! Post ID: 793069361569169408, URL: https://beyondtheedge-blog/post/793069361569169408
+2025-08-27 15:24:41,425 - INFO - Successfully published to tumblr
+2025-08-27 15:24:41,425 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-27 15:24:41,425 - INFO - Attempting to publish to WordPress.com...
+2025-08-27 15:24:47,943 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/27/my-first-automated-post-22/
+2025-08-27 15:24:47,945 - INFO - Successfully published to wordpress
+2025-08-27 15:24:47,945 - INFO - 
+--- Publishing to Write.as ---
+2025-08-27 15:24:47,945 - INFO - Attempting to publish to Write.as...
+2025-08-27 15:24:48,279 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'ipkkgr3ouc73a', 'slug': None, 'token': 'mEhu8mYGjUgrOaLExKspyu39wYMRHsLH', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-27T21:24:48Z', 'updated': '2025-08-27T21:24:48Z', 'title': 'My First Automated Post', 'body': "# Hello World!\n\nThis is the body of my first blog post, published automatically by a script I built with Gemini.\n\n- It supports markdown.\n- It handles front-matter.\n- It's pretty cool!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/ipkkgr3ouc73a.md'}}
+2025-08-27 15:24:48,280 - DEBUG - Write.as initial post_url: https://write.as/ipkkgr3ouc73a.md
+2025-08-27 15:24:48,280 - DEBUG - Write.as: post_url is truthy.
+2025-08-27 15:24:48,280 - DEBUG - Write.as post_url after stripping .md: https://write.as/ipkkgr3ouc73a
+2025-08-27 15:24:48,280 - INFO - Successfully published to Write.as! URL: https://write.as/ipkkgr3ouc73a
+2025-08-27 15:24:48,280 - INFO - Successfully published to write_as
+2025-08-27 15:24:48,281 - INFO - --- Blog distribution run finished ---
+2025-08-27 15:42:12,551 - INFO - --- Starting new blog distribution run for: /Users/bezal/--post ---
+2025-08-27 15:42:12,551 - INFO - Parsed Markdown successfully.
+2025-08-27 15:42:22,294 - INFO - --- Starting new blog distribution run for: /Users/bezal/blog_poster/sample_post_with_cdn_image.md ---
+2025-08-27 15:42:22,295 - INFO - Parsed Markdown successfully.
+2025-08-27 15:42:22,295 - INFO - Title: Test Post with CDN Image
+2025-08-27 15:42:22,295 - INFO - Tags: ['test', 'gemini', 'cdn-image']
+2025-08-27 15:42:22,295 - INFO - Author: Gemini CLI
+2025-08-27 15:42:22,295 - INFO - Date: 2025-08-27T15:30:00Z
+2025-08-27 15:42:22,295 - INFO - Description: This is a test post created by the Gemini CLI to verify CDN image handling.
+2025-08-27 15:42:22,295 - INFO - 
+--- Publishing to Blogger ---
+2025-08-27 15:42:22,295 - INFO - Attempting to publish to Blogger...
+2025-08-27 15:42:22,447 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-27 15:42:22,614 - INFO - Blogger access token refreshed successfully.
+2025-08-27 15:42:22,616 - ERROR - Could not find PLATFORM_CONFIGS in config.py. Cannot update token.
+2025-08-27 15:42:22,619 - INFO - Retrying Blogger post with new access token...
+2025-08-27 15:42:24,103 - INFO - Successfully published to Blogger after refresh! URL: http://mavericksedge.blogspot.com/2025/08/test-post-with-cdn-image.html
+2025-08-27 15:42:24,109 - INFO - Successfully published to blogger
+2025-08-27 15:42:24,109 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-27 15:42:24,109 - INFO - Attempting to publish to Dev.to...
+2025-08-27 15:42:24,479 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-27 15:42:24,481 - WARNING - Failed to publish to dev_to
+2025-08-27 15:42:24,481 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-27 15:42:24,481 - INFO - Attempting to publish to Hashnode...
+2025-08-27 15:42:24,948 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/test-post-with-cdn-image
+2025-08-27 15:42:24,950 - INFO - Successfully published to hashnode
+2025-08-27 15:42:24,950 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-27 15:42:24,950 - INFO - Attempting to publish to Telegra.ph...
+2025-08-27 15:42:25,526 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/Test-Post-with-CDN-Image-08-27
+2025-08-27 15:42:25,527 - INFO - Successfully published to telegraph
+2025-08-27 15:42:25,527 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-27 15:42:25,527 - INFO - Attempting to publish to Tumblr...
+2025-08-27 15:42:26,027 - INFO - Successfully published to Tumblr! Post ID: 793070477812891648, URL: https://beyondtheedge-blog/post/793070477812891648
+2025-08-27 15:42:26,027 - INFO - Successfully published to tumblr
+2025-08-27 15:42:26,027 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-27 15:42:26,027 - INFO - Attempting to publish to WordPress.com...
+2025-08-27 15:42:33,572 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/27/test-post-with-cdn-image/
+2025-08-27 15:42:33,576 - INFO - Successfully published to wordpress
+2025-08-27 15:42:33,576 - INFO - 
+--- Publishing to Write.as ---
+2025-08-27 15:42:33,576 - INFO - Attempting to publish to Write.as...
+2025-08-27 15:42:33,917 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': '2w1g35s61ov6c', 'slug': None, 'token': 'cIaR9qBItDzRYKU4EcW9Umy5VzKrJ0FL', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-27T21:42:33Z', 'updated': '2025-08-27T21:42:33Z', 'title': 'Test Post with CDN Image', 'body': "# Hello from Gemini CLI!\n\nThis is a test post to demonstrate the `blog_poster` tool's ability to publish content, including images hosted on a CDN.\n\nHere's an example image from a public CDN:\n\n![Example Image](https://picsum.photos/800/400)\n\nWe expect this image to appear correctly on the published blog post.\n\n## Further Details\n\n*   **Tool:** `blog_poster`\n*   **Purpose:** Verify image handling with external URLs.\n*   **Date:** August 27, 2025\n\nThank you for testing!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/2w1g35s61ov6c.md'}}
+2025-08-27 15:42:33,917 - DEBUG - Write.as initial post_url: https://write.as/2w1g35s61ov6c.md
+2025-08-27 15:42:33,917 - DEBUG - Write.as: post_url is truthy.
+2025-08-27 15:42:33,917 - DEBUG - Write.as post_url after stripping .md: https://write.as/2w1g35s61ov6c
+2025-08-27 15:42:33,917 - INFO - Successfully published to Write.as! URL: https://write.as/2w1g35s61ov6c
+2025-08-27 15:42:33,919 - INFO - Successfully published to write_as
+2025-08-27 15:42:33,920 - INFO - --- Blog distribution run finished ---
+2025-08-27 15:50:24,369 - INFO - --- Starting new blog distribution run for: /Users/bezal/blog_poster/sample_post_with_cdn_image.md ---
+2025-08-27 15:50:24,370 - INFO - Parsed Markdown successfully.
+2025-08-27 15:50:24,370 - INFO - Title: Test Post with CDN Image
+2025-08-27 15:50:24,370 - INFO - Tags: ['test', 'gemini', 'cdn-image']
+2025-08-27 15:50:24,371 - INFO - Author: Gemini CLI
+2025-08-27 15:50:24,371 - INFO - Date: 2025-08-27T15:30:00Z
+2025-08-27 15:50:24,371 - INFO - Description: This is a test post created by the Gemini CLI to verify CDN image handling.
+2025-08-27 15:50:24,371 - INFO - 
+--- Publishing to Blogger ---
+2025-08-27 15:50:24,371 - INFO - Attempting to publish to Blogger...
+2025-08-27 15:50:24,495 - WARNING - Blogger access token expired. Attempting to refresh...
+2025-08-27 15:50:24,644 - INFO - Blogger access token refreshed successfully.
+2025-08-27 15:50:24,644 - ERROR - Could not find PLATFORM_CONFIGS in config.py. Cannot update token.
+2025-08-27 15:50:24,647 - INFO - Retrying Blogger post with new access token...
+2025-08-27 15:50:26,143 - INFO - Successfully published to Blogger after refresh! URL: http://mavericksedge.blogspot.com/2025/08/test-post-with-cdn-image_27.html
+2025-08-27 15:50:26,146 - INFO - Successfully published to blogger
+2025-08-27 15:50:26,146 - INFO - 
+--- Publishing to Dev.to ---
+2025-08-27 15:50:26,146 - INFO - Attempting to publish to Dev.to...
+2025-08-27 15:50:26,655 - ERROR - Error publishing to Dev.to: 422 Client Error: Unprocessable Entity for url: https://dev.to/api/articles
+2025-08-27 15:50:26,657 - WARNING - Failed to publish to dev_to
+2025-08-27 15:50:26,657 - INFO - 
+--- Publishing to Hashnode ---
+2025-08-27 15:50:26,657 - INFO - Attempting to publish to Hashnode...
+2025-08-27 15:50:27,042 - INFO - Successfully published to Hashnode! URL: https://beyond-the-edge.hashnode.dev/test-post-with-cdn-image-1
+2025-08-27 15:50:27,044 - INFO - Successfully published to hashnode
+2025-08-27 15:50:27,044 - INFO - 
+--- Publishing to Telegraph ---
+2025-08-27 15:50:27,044 - INFO - Attempting to publish to Telegra.ph...
+2025-08-27 15:50:27,625 - INFO - Successfully published to Telegra.ph! URL: https://telegra.ph/Test-Post-with-CDN-Image-08-27-2
+2025-08-27 15:50:27,627 - INFO - Successfully published to telegraph
+2025-08-27 15:50:27,627 - INFO - 
+--- Publishing to Tumblr ---
+2025-08-27 15:50:27,627 - INFO - Attempting to publish to Tumblr...
+2025-08-27 15:50:28,091 - INFO - Successfully published to Tumblr! Post ID: 793070983344996352, URL: https://beyondtheedge-blog/post/793070983344996352
+2025-08-27 15:50:28,092 - INFO - Successfully published to tumblr
+2025-08-27 15:50:28,092 - INFO - 
+--- Publishing to Wordpress ---
+2025-08-27 15:50:28,092 - INFO - Attempting to publish to WordPress.com...
+2025-08-27 15:50:33,579 - INFO - Successfully published to WordPress.com! URL: https://mavericksedgebeyondtheedge.wordpress.com/2025/08/27/test-post-with-cdn-image-2/
+2025-08-27 15:50:33,581 - INFO - Successfully published to wordpress
+2025-08-27 15:50:33,581 - INFO - 
+--- Publishing to Write.as ---
+2025-08-27 15:50:33,581 - INFO - Attempting to publish to Write.as...
+2025-08-27 15:50:33,888 - DEBUG - Write.as raw response: {'code': 201, 'data': {'id': 'dbwj51j55h7mb', 'slug': None, 'token': 'PSBykPtOG3RvdsezRVOIy2KNYxUdKtLR', 'appearance': 'norm', 'language': '', 'rtl': False, 'type': None, 'created': '2025-08-27T21:50:33Z', 'updated': '2025-08-27T21:50:33Z', 'title': 'Test Post with CDN Image', 'body': "# Hello from Gemini CLI!\n\nThis is a test post to demonstrate the `blog_poster` tool's ability to publish content, including images hosted on a CDN.\n\nHere's an example image from a public CDN:\n\n![Example Image](https://picsum.photos/800/400)\n\nWe expect this image to appear correctly on the published blog post.\n\n## Further Details\n\n*   **Tool:** `blog_poster`\n*   **Purpose:** Verify image handling with external URLs.\n*   **Date:** August 27, 2025\n\nThank you for testing!", 'tags': [], 'paid': False, 'full_post_url': '', 'views': 0, 'likes': 0, 'url': 'https://write.as/dbwj51j55h7mb.md'}}
+2025-08-27 15:50:33,888 - DEBUG - Write.as initial post_url: https://write.as/dbwj51j55h7mb.md
+2025-08-27 15:50:33,888 - DEBUG - Write.as: post_url is truthy.
+2025-08-27 15:50:33,888 - DEBUG - Write.as post_url after stripping .md: https://write.as/dbwj51j55h7mb
+2025-08-27 15:50:33,888 - INFO - Successfully published to Write.as! URL: https://write.as/dbwj51j55h7mb
+2025-08-27 15:50:33,889 - INFO - Successfully published to write_as
+2025-08-27 15:50:33,889 - INFO - --- Blog distribution run finished ---

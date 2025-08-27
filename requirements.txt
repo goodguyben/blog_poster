@@ -1,0 +1,5 @@
+requests
+python-frontmatter
+markdown
+requests_oauthlib
+pytumblr
